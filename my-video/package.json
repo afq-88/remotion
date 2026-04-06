@@ -6,6 +6,7 @@
   "author": "",
   "scripts": {
     "start": "remotion studio",
+    "dev": "remotion studio",
     "build": "remotion render",
     "upgrade": "remotion upgrade"
   },
